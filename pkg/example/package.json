@@ -1,0 +1,17 @@
+{
+  "name": "@hjf/example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "public": true,
+  "scripts": {
+    "start": "ts-node ."
+  },
+  "dependencies": {
+    "@hjf/core": "^1.0.0"
+  },
+  "devDependencies": {
+    "ts-node": "^10.2.1",
+    "typescript": "^4.4.3"
+  }
+}
